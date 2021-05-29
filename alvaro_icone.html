@@ -1,0 +1,53 @@
+<<canvas width="600" height="600"></canvas>
+
+<script>
+
+    var tela = document.querySelector('canvas');
+    var pincel = tela.getContext('2d');
+    pincel.fillStyle = 'gray';
+    pincel.fillRect(0, 0, 600, 600);
+
+    function desenhaCirculo(x, y, raio, cor) {
+
+        pincel.fillStyle = cor;
+        pincel.beginPath();
+        pincel.arc(x, y, raio, 0, 2 * Math.PI);
+        pincel.fill();
+    }
+    function desenhaTexto(x , y, texto, cor, fonte) {
+        var tela = document.querySelector('canvas');
+        var pincel = tela.getContext('2d');
+
+        pincel.font='80px Impact';
+        pincel.fillStyle= cor;
+        pincel.fillText(texto, x, y);    
+    }
+    function desenhaTextoM(x , y, texto, cor, fonte) {
+        var tela = document.querySelector('canvas');
+        var pincel = tela.getContext('2d');
+
+        pincel.font='75px Impact';
+        pincel.fillStyle= cor;
+        pincel.fillText(texto, x, y);    
+    }
+
+
+    desenhaCirculo(300, 300, 100, 'red');
+    desenhaCirculo(300, 300, 80, 'white');
+    desenhaCirculo(300, 300, 60, 'red');
+    desenhaCirculo(300, 300, 40, 'white');
+    desenhaCirculo(300, 300, 20, 'red');
+    
+    desenhaTexto(200, 300, 'Alvaro', 'black');
+    desenhaTexto(197, 297, 'Alvaro', 'red');
+    desenhaTexto(193, 293, 'Alvaro', 'white');
+    desenhaTexto(190, 290, 'Alvaro', 'red');
+    pincel.fillStyle='red'
+    pincel.fillRect(200,405,200,5);
+    pincel.fillStyle='white'
+    pincel.fillRect(200,400,200,5);
+
+
+
+
+</script>
