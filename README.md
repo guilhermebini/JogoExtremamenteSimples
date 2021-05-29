@@ -13,6 +13,5 @@ IDEIA:
   Cenário: </h3>
 Comecei pensando em como fazer algo simples e bonito, foi ai que pensei em árvores, e um céu azul, comecei desenhando o céu, ainda usando
 html com tag canvas+script, as nuvens eram um desafio, mas fiz usando circulos brancos de varios tamanhos com a função arc(x,y,r,â *math.Pi) 
-depois fui para as arvores, usando circulos, pra dar um formato diferente pro tronco, eu tive que pensar muito mas eu consegui (= 
-<br>a seguir o resultado, e o link do arquivo 
+depois fui para as arvores, usando circulos,  pensei como dar um formato diferente pro tronco,
 
