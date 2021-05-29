@@ -5,8 +5,11 @@
 <h3>
 IDEIA:
 <br>Alvo 2D, em movimento, que tem uma aceleração em progressão aritimética; e você deve clicar no centro para ganhar pontos.
-*Comecei pelo icone do jogo, para mim foi um bom começo<br><br>
- <img align="center" alt="logoAlv" width="250px" src="https://i.ibb.co/Wv9rSYF/Alvaro-icon.png">
-            obs: fiz o icone, usando javascript e html (canvas) 
-<br><br>
+<br>•Comecei pelo icone do jogo, para mim foi um bom começo, fiz ele com o html tags script e canvas. arquivo HTML em: "clique aqui" abaixo<br><br></h3>
+
+<a target="codigoIcone" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/alvaro_icone.html">
+  <img align="center" alt="logoAlv" width="250px" src="https://i.ibb.co/Wv9rSYF/Alvaro-icon.png">
+<a target="codigoIcone" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/alvaro_icone.html">
+clique aqui
+<br><br><h1>
 Enfim... continuo dps
