@@ -1,12 +1,9 @@
 
-
-
-
 body {
     background: linear-gradient(180deg, rgb(90, 211, 241), #044e0e);
     background-repeat: no-repeat;
-    min-height: 100vh;
-    min-width: 100vw;
+    min-height: 97vh;
+    min-width: 10vw;
     display: flex;
     align-items: center;
     justify-content: center;
