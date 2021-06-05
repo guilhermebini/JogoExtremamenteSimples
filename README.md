@@ -16,7 +16,9 @@ html criei o canvas. Com javascript desenhei o cenário, e também coloquei css 
 Voltando como desenhei as nuvens eram um desafio, mas fiz usando circulos brancos de varios tamanhos com a função arc(x,y,r,âin, âfi *math.Pi) 
 depois fiz o chão verde com circulos tbm (: e então fiquei satisfeito.
 <br><hr>
-<h3><img align="center" alt="Cenario" width="1000" height="550" src="https://raw.githubusercontent.com/guilhermebini/JogoExtremamenteSimples/main/Cenario.png"><br>
-  <a align="left" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.html">[Codigo.HTML do cenario]  </a>
-<a align="left" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.css">[Codigo.CSS do cenario]  </a>
-<a align="left" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.js">[Codigo.JS do cenario]</a></h3>
+<h3>
+  <img align="center" alt="Cenario" width="1000" height="550" src="https://raw.githubusercontent.com/guilhermebini/JogoExtremamenteSimples/main/Cenario.png">
+<br>
+<a align="center" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.html">[Codigo.HTML do cenario]  </a>
+<a align="center" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.css">[Codigo.CSS do cenario]  </a>
+<a align="center" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.js">[Codigo.JS do cenario]</a></h3>
