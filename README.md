@@ -12,10 +12,11 @@ IDEIA:
 <h3>
   Cenário: </h3>
 Comecei pensando em como fazer algo simples e bonito, foi ai que pensei em nuvens brancas, e um céu azul, comecei desenhando o céu, ainda usando
-html com tag canvas+script, as nuvens eram um desafio, mas fiz usando circulos brancos de varios tamanhos com a função arc(x,y,r,âin, âfi *math.Pi) 
-depois fiz o chão verde, e então fiquei satisfeito, coloquei css, pra colocar um gradient no fundo, e uma borda vermelha pra ficar estiloso,
+html criei o canvas. Com javascript desenhei o cenário, e também coloquei css pra colocar um background com gradient azul e verde no fundo, e uma borda vermelha pra ficar estiloso. 
+Voltando como desenhei as nuvens eram um desafio, mas fiz usando circulos brancos de varios tamanhos com a função arc(x,y,r,âin, âfi *math.Pi) 
+depois fiz o chão verde com circulos tbm (: e então fiquei satisfeito.
 <br><hr>
-<h3><img align="center" alt="Cenario" width="600" height="320" src="https://raw.githubusercontent.com/guilhermebini/JogoExtremamenteSimples/main/Cenario.png">
-  <a href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.html">Codigo.HTML do cenario</a>
-<a href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.css">Codigo.CSS do cenario</a></h3>
-<a href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.js">Codigo.JS do cenario</a></h3></h3>
+<h3><img align="center" alt="Cenario" width="1000" height="550" src="https://raw.githubusercontent.com/guilhermebini/JogoExtremamenteSimples/main/Cenario.png"><br>
+  <a align="left" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.html">[Codigo.HTML do cenario]  </a>
+<a align="left" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.css">[Codigo.CSS do cenario]  </a>
+<a align="left" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.js">[Codigo.JS do cenario]</a></h3>
