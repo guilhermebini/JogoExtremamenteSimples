@@ -19,6 +19,11 @@ depois fiz o chão verde com circulos tbm (: e então fiquei satisfeito.
 <h3>
   <img align="center" alt="Cenario" width="1000" height="550" src="https://raw.githubusercontent.com/guilhermebini/JogoExtremamenteSimples/main/Cenario.png">
 <br>
-<a align="center" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.html">[Codigo.HTML do cenario]  </a>
-<a align="center" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.css">[Codigo.CSS do cenario]  </a>
+<a align="center" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.html">[Codigo.HTML do cenario]  </a>__
+<a align="center" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.css">[Codigo.CSS do cenario]  </a>__
 <a align="center" href="https://github.com/guilhermebini/JogoExtremamenteSimples/blob/main/cenario.js">[Codigo.JS do cenario]</a></h3>
+<hr>
+<br>
+  <h3>MENU:</h3>
+  A ideia era uma caixa pra dar play no jogo que aparece na frente do cenário, (vou tentar colocar dificuldade, mas sou bem iniciante, não prometo nada)
+  e musica vou ter que pesquisar, mas se der certo, ja pego meu teclado e faço a musica com teclas aleatórias vejamos até lá.(=
