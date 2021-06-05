@@ -11,8 +11,7 @@ IDEIA:
   <h4>Depois de passar alguns minutos programando o desenho, eu tentei programar o cenario principal e o menu do jogo (=</h4> <hr>
 <h3>
   Cenário: </h3>
-Comecei pensando em como fazer algo simples e bonito, foi ai que pensei em árvores, e um céu azul, comecei desenhando o céu, ainda usando
-html com tag canvas+script, as nuvens eram um desafio, mas fiz usando circulos brancos de varios tamanhos com a função arc(x,y,r,â *math.Pi) 
-depois fui para as arvores, usando circulos para a copa, pensei como dar um formato diferente pro tronco, e pensei em alterar o angulo(â) da
-função arc, e funcionou.
+Comecei pensando em como fazer algo simples e bonito, foi ai que pensei em nuvens brancas, e um céu azul, comecei desenhando o céu, ainda usando
+html com tag canvas+script, as nuvens eram um desafio, mas fiz usando circulos brancos de varios tamanhos com a função arc(x,y,r,âin, âfi *math.Pi) 
+depois fiz o chão verde, e então fiquei satisfeito, coloquei css, pra colocar um gradient no fundo, e uma borda vermelha pra ficar estiloso,
 
