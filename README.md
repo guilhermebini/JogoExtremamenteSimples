@@ -14,4 +14,5 @@ IDEIA:
 Comecei pensando em como fazer algo simples e bonito, foi ai que pensei em nuvens brancas, e um céu azul, comecei desenhando o céu, ainda usando
 html com tag canvas+script, as nuvens eram um desafio, mas fiz usando circulos brancos de varios tamanhos com a função arc(x,y,r,âin, âfi *math.Pi) 
 depois fiz o chão verde, e então fiquei satisfeito, coloquei css, pra colocar um gradient no fundo, e uma borda vermelha pra ficar estiloso,
-
+<br><hr>
+<img align="center" alt="Cenario" width="600" height="300" src="https://raw.githubusercontent.com/guilhermebini/JogoExtremamenteSimples/main/Cenario.png"
